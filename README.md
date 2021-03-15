@@ -1,0 +1,1 @@
+Basic JavaScript interface for a REST application
